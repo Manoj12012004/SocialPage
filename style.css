@@ -55,6 +55,10 @@ p{
     width: 96%;
     padding: 2%;
 }
+button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
 #place{
     font-size: small;
     color: hsl(75, 94%, 57%);
