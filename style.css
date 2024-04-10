@@ -1,0 +1,72 @@
+@font-face {
+    font-family: Myfont;
+    src: url(./fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+@media only screen and (max-width: 1440px) {
+body{
+    background-color: hsl(0, 0%, 8%);
+    height: 100vh;
+    align-content: center;
+}   
+#outer{
+    border-radius: 5%;
+    width: 30%;
+    height: 80vh;
+    margin: auto;
+}
+#inner{
+    border-radius: 5%;
+    padding: 2%;
+    width: 100%;
+    margin: auto;
+    height: 100%;
+}
+div{
+    background-color: hsl(0, 0%, 12%);
+    align-content: center;
+}
+button{
+    border-radius: 10px;
+    height: 15%;
+    margin: 2%;
+    font-weight: 700;
+    font-family: Myfont;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    width: 96%;
+    border: none;
+    font-size: large;
+}
+p{
+    border-radius: 5%;
+    height: 30%;
+    text-align: center;
+    font-family: Myfont;
+}
+#name{
+    font-size: x-large;
+    font-weight: 700;
+    color: white;
+}
+#button{
+    border-radius: 5%;
+    height: 60%;
+    margin: 0%;
+    width: 96%;
+    padding: 2%;
+}
+#place{
+    font-size: small;
+    color: hsl(75, 94%, 57%);
+    font-weight: 400;
+}
+#skills{
+    font-size: small;
+    font-weight: 600;
+    color: hsl(0, 0%, 80%);
+}
+img{
+    border-radius: 50%;
+    height: 50%;
+}
+}
