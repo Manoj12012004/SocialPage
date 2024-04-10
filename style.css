@@ -2,7 +2,7 @@
     font-family: Myfont;
     src: url(./Inter-VariableFont_slnt\,wght.ttf);
 }
-@media only screen and (max-width: 1440px) {
+
 body{
     background-color: hsl(0, 0%, 8%);
     height: 100vh;
@@ -73,4 +73,4 @@ img{
     border-radius: 50%;
     height: 50%;
 }
-}
+
