@@ -2,7 +2,6 @@
     font-family: Myfont;
     src: url(./Inter-VariableFont_slnt\,wght.ttf);
 }
-
 body{
     background-color: hsl(0, 0%, 8%);
     height: 100vh;
@@ -73,4 +72,3 @@ img{
     border-radius: 50%;
     height: 50%;
 }
-
